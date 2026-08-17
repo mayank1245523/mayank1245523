@@ -47,5 +47,5 @@ An aspiring AI & Machine Learning Engineer specializing in Generative AI, Agenti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MayankSingh/MayankSingh/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank1245523&theme=react-dark&hide_border=true" alt="Mayank's Contribution Graph" />
 </p>
