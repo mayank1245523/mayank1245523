@@ -9,7 +9,7 @@ An aspiring AI & Machine Learning Engineer specializing in Generative AI, Agenti
 - 🤖 **AI & ML Developer** focused on Generative AI systems, Agentic AI, and context-aware LLM architectures.
 - ⚡ Experienced in designing graph-based agent orchestration with **LangGraph** and building standardized tool connections using **MCP (Model Context Protocol)**.
 - 📊 Solid foundation in classical ML (predictive modeling, anomaly detection) alongside modern GenAI stacks.
-- 📫 **Contact Me:** [Email](9203.uspc@gmail.com)
+- 📫 **Contact Me:** 9203.uspc@gmail.com
 
 ---
 
