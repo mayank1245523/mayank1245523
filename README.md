@@ -28,7 +28,7 @@ An aspiring AI & Machine Learning Engineer specializing in Generative AI, Agenti
 ### 💻 Featured Projects
 
 
-#### 💳 **[Anomaly Detection for Financial Transactions Fraud](https://github.com/MayankSingh/Fraud-Detection-System)**
+#### 💳 **[Anomaly Detection for Financial Transactions Fraud](https://github.com/mayank1245523/Anomaly_detection)**
 - Built end-to-end classification models leveraging **Random Forest** and **Isolation Forest** algorithms to catch fraudulent activity on imbalanced data.
 - Engineered fraud features and performed Exploratory Data Analysis (EDA).
 - Optimized for Precision-Recall curves and F1-scores over raw accuracy to handle extreme class imbalances effectively.
