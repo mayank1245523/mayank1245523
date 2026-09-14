@@ -45,7 +45,6 @@ An aspiring AI & Machine Learning Engineer specializing in Generative AI, Agenti
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mayank1245523&show_icons=true&theme=react&hide_border=true" alt="Mayank's Stats" />
+  <img src="https://raw.githubusercontent.com/mayank1245523/mayank1245523/output/github-contribution-grid-snake-dark.svg" alt="Mayank's Contribution Snake Graph" />
 </p>
